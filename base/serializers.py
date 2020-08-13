@@ -22,4 +22,3 @@ class UserListSerializer(serializers.ModelSerializer):
         queryset = user.children.all()
         serializer = ChildSerializer(queryset, many=True)
         return serializer.data
-

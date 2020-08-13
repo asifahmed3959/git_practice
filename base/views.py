@@ -18,6 +18,7 @@ class UserModelViewSet(ModelViewSet):
 
     def get_object(self):
         obj = self.queryset.filter(id=self.kwargs.get('parent_id')).first()
+        
 
 class ChildrenModelViewSet(ModelViewSet):
     permission_classes = [AllowAny, ]
@@ -45,3 +46,4 @@ class ChildrenModelViewSet(ModelViewSet):
 
     def perform_create(self, serializer):
         serializer.save(parent=self._parent)
+
