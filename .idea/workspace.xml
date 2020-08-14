@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="72c3924b-083c-4114-8492-e0bd65b02460" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="fc338552-868e-4e09-af66-f4965d920939" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/views.py" afterDir="false" />
+    </list>
+>>>>>>> 166f6dde4d49462c5f7c8beb18067b370f1e4028
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,30 +24,58 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1g1rU1znGVZ2PvE6kGmu2978Ax4" />
+=======
+  <component name="ProjectId" id="1g1pweEMrAxkdh29ml3BGSWOsXX" />
+>>>>>>> 166f6dde4d49462c5f7c8beb18067b370f1e4028
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/Work/apploye_git/Apploye4/apploye/apploye/backend" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+>>>>>>> 166f6dde4d49462c5f7c8beb18067b370f1e4028
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="72c3924b-083c-4114-8492-e0bd65b02460" name="Default Changelist" comment="" />
       <created>1597292951991</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597292951991</updated>
+=======
+      <changelist id="fc338552-868e-4e09-af66-f4965d920939" name="Default Changelist" comment="" />
+      <created>1597292192336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597292192336</updated>
+>>>>>>> 166f6dde4d49462c5f7c8beb18067b370f1e4028
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="2610" y="240" width="530" height="598" key="FileChooserDialogImpl" timestamp="1597293467882">
       <screen x="67" y="27" width="3773" height="1053" />
     </state>
     <state x="2610" y="240" width="530" height="598" key="FileChooserDialogImpl/67.27.3773.1053@67.27.3773.1053" timestamp="1597293467882" />
+=======
+    <state x="2610" y="240" width="530" height="598" key="FileChooserDialogImpl" timestamp="1597292949447">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="2610" y="240" width="530" height="598" key="FileChooserDialogImpl/67.27.3773.1053@67.27.3773.1053" timestamp="1597292949447" />
+    <state x="2244" y="86" key="SettingsEditor" timestamp="1597292514674">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="2244" y="86" key="SettingsEditor/67.27.3773.1053@67.27.3773.1053" timestamp="1597292514674" />
+>>>>>>> 166f6dde4d49462c5f7c8beb18067b370f1e4028
   </component>
 </project>
